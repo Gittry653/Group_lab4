@@ -1,6 +1,6 @@
 # Group_lab4
 ## นายอิทธิพัฒน์ ลุสุข
-![JcZLtn.jpg](https://sv1.picz.in.th/images/2022/12/28/JcZLtn.jpg=250x250)
+[![JcZLtn.th.jpg](https://sv1.picz.in.th/images/2022/12/28/JcZLtn.th.jpg)](https://www.picz.in.th/image/JcZLtn)
 ### ข้อมูล
 - รหัสนักศึกษา : 633020435-2
 - Section : 2
